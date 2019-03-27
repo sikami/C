@@ -1,0 +1,20 @@
+0.  16.8 million
+1.  GIF
+2.  Lossless compression: original data can be fully restored after uncompression of files. While lossy reduces file permanently, eliminating redundant information.  
+3.  JPEG
+4.  the system modifies the file name's first character in the file directory to notify that the file
+    has been deleted thus directory entry can be recycled, the system move the file into a hard drive's list of free cluster.   
+5.  destroy the physical hard drive, degauss the drive, and overwrite the drive's data.
+6.  a header file that is made by programmer containing typedefs of types of integers.  
+7.  to better optimize computer's memory by typedeffing unsigned int and int to specific bytes. 
+8.  a byte is 8 bits, DWORD contains 4 bytes, LONG is 4 bytes, WORD is 2 bytes
+9.  0x
+10. bfsize is the actual bytes defining the size of the image while bisize is the bytes required by the structure.
+11. it means the bitmap image is a top-down device independent bitmap with the origin of upper left corner
+12. BiClrImportant
+13. because the file that fopen opens might not be there in the folder file, so it has to be countered with that.
+14. because it specifies the number of elements to read in
+15. 1
+16. fseek allows the change position of file pointer
+17. curent position of file pointer
+18. Rick Astley
