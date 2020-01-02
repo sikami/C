@@ -1,2 +1,3 @@
-# C
-C program from CS50 course
+# C & Python
+C & Python exercises in order to fulfill CS50x course in Introduction to Computer Science in Harvard University
+
